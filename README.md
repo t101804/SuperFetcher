@@ -17,3 +17,10 @@ To run the tests, you need:
 
   ```bash
   pip install aiohttp requests
+
+## aiohttp with thread chunking method
+![alt text](/screenshots/1.png)
+## MultiProcessingPool method
+![MultiProcessingPool](/screenshots/other.png)
+## Normal requests loop method
+![Normal](/screenshots/other.png)
